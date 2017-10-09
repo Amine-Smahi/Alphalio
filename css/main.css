@@ -1,9 +1,4 @@
 /*
-Template Name:Resume html5 templete
-Author:  CrazyCafe
-Author URI:
-Version: 1.0
-
 ====/========        ===== ==/====/
              CSS Index
 ====/========        =======/====/
@@ -362,7 +357,7 @@ header.header_area .logo {
  ====/========        =======/====/*/
 
 .welcome_area {
-  background-image: url("img/w_bh.jpg");
+  background-image: url("../img/w_bh.jpg");
   background-position: center center;
   background-size: cover;
   height: 699px;
@@ -937,7 +932,7 @@ a.w_btn1:hover {
 }
 
 .portfolio_img:hover {
-    cursor: url("img/cursor.png"), auto;
+    cursor: url("../img/cursor.png"), auto;
 }
 
 .portfolio_img:after {
